@@ -12,4 +12,7 @@
 - 🤔 Curiosidade em *Back-End/Mobile/UI/UX*
 
 💏 minha esposa minha motivação
--->
+
+ 
+
+
