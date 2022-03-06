@@ -6,9 +6,9 @@
 ![js](https://user-images.githubusercontent.com/58758617/127754904-e1864d30-878a-45fc-9f39-1664e6484dde.png)
 
 - 🔭 I’m currently working  em **projetos pessoais **
-- 🌱 I’m currently learning **HTML/CSS**
+- 🌱 I’m currently learning **técnico em desenvolvimento de sistemas/Senac-RS**
 - 🌱 I’m currently learning **Inglês**
-- 👌 Em breve estarei iniciando em **JavaScript**
+- 👌 I'm currently learning **JavaScript nível intermediário**
 - 🤔 Curiosidade em *Back-End/Mobile/UI/UX*
 
 💏 minha esposa minha motivação
