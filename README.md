@@ -6,8 +6,8 @@
 ![js](https://user-images.githubusercontent.com/58758617/127754904-e1864d30-878a-45fc-9f39-1664e6484dde.png)
 
 - 🔭 I’m currently working  em **projetos pessoais **
-- 🌱 I’m currently learning **técnico em desenvolvimento de sistemas/Senac-RS**
-- 🌱 I’m currently learning **Inglês**
+- 🌱 learning **técnico em desenvolvimento de sistemas/Senac-RS**
+- 🌱 learning **Inglês**
 - 👌 I'm currently learning **JavaScript nível intermediário**
 - 🤔 Curiosidade em *Back-End/Mobile/UI/UX*
 
