@@ -9,7 +9,7 @@
 - 🔭 Atualmente estou trabalhando em **projetos pessoais**
 - 🌱 learning **técnico em desenvolvimento de sistemas/Senac-RS**
 - 🌱 learning **Inglês**
-- 👌 I'm currently learning **JavaScript nível intermediário**
+- 👌 I'm currently learning JavaScript 
 - 🤔 Curiosidade em *Back-End/Mobile/UI/UX*
 
 💏 minha esposa minha motivação
