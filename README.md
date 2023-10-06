@@ -8,7 +8,6 @@
 - 🌱 formando **técnico em desenvolvimento de sistemas/Senac-RS**
 - 🌱 aprendendo **Inglês**
 - 👌 I'm currently learning JavaScript 
-- 🤔 Curiosidade em *Back-End/Mobile/UI/UX*
 
 💏 minha esposa minha motivação
 
