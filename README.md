@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em **projetos pessoais**
 - 🌱 Cursando **Analise e desenvolvimento de sistemas/UNIFAVIP**
-- 🌱 formando **técnico em desenvolvimento de sistemas/Senac-RS**
+- 🌱 **técnico em desenvolvimento de sistemas/Senac-RS**
 - 🌱 aprendendo **Inglês**
 - 👌 I'm currently learning JavaScript 
 
