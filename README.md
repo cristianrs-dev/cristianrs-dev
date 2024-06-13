@@ -11,7 +11,7 @@
 
 💏 minha esposa minha motivação
 
-**MEU PORTIFÓLIO** https://eclipsecjp.github.io/portifolio-reactjs/
+**MEU PORTIFÓLIO** https://cristianrs-dev.github.io/portifolio-reactjs/
 
 <h3>Next Features!</h3>
 * formulário de contato com integração backend 
