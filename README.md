@@ -11,7 +11,7 @@
 
 💏 minha esposa minha motivação
 
-**MEU PORTIFÓLIO** https://cristianrs-dev.github.io/portifolio/
+**MEU PORTIFÓLIO** (https://cristianrs-dev.github.io/portfolio-html/)
 
 <h3>Next Features!</h3>
 * formulário de contato com integração backend 
