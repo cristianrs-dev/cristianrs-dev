@@ -3,13 +3,13 @@
 
 
 
-- 🔭 Atualmente estou trabalhando em **projetos pessoais**
-- 🌱 Cursando **Analise e desenvolvimento de sistemas/UNIFAVIP**
-- 🌱 **técnico em desenvolvimento de sistemas/Senac-RS**
-- 🌱 aprendendo **Inglês**
-- 👌 I'm currently learning JavaScript 
+# Aviso de Inatividade
 
-💏 minha esposa minha motivação
+Atualmente estou internado no hospital por questões de saúde, por isso todos os meus projetos estão pausados.
+
+Assim que eu estiver melhor, pretendo retomar as atividades normalmente.
+
+Agradeço a compreensão.
 
 **MEU PORTIFÓLIO** (https://cristianrs-dev.github.io/portfolio-dev/)
 
