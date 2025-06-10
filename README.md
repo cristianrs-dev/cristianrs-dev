@@ -5,9 +5,9 @@
 
 # Aviso de Inatividade
 
-Atualmente estou internado no hospital por questões de saúde, por isso todos os meus projetos estão pausados.
+Recentemente por questões de saúde eu estava internado e meus projetos estavam pausados.
 
-Assim que eu estiver melhor, pretendo retomar as atividades normalmente.
+À medida em que me recupero vou retomando os meus projetos
 
 Agradeço a compreensão.
 
@@ -17,7 +17,6 @@ Agradeço a compreensão.
 * formulário de contato com integração backend 
 
 
-![portifolio](https://github.com/eclipseCJP/eclipseCJP/assets/58758617/62cd5095-1eed-4702-b2a3-89d14af28bfb)
 
 
 
