@@ -5,7 +5,7 @@
 
 # Aviso de Inatividade
 
-Recentemente por questões de saúde eu estava internado e meus projetos estavam pausados.
+Desde Setembro de 2024 até Maio de 2025 por questões de saúde eu estava internado e meus projetos estavam pausados.
 
 À medida em que me recupero vou retomando os meus projetos
 
