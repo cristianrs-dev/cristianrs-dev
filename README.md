@@ -3,7 +3,7 @@
 
 
 
-# Aviso de Inatividade
+# Voltando à ativa
 
 Desde Setembro de 2024 até Maio de 2025 por questões de saúde eu estava internado e meus projetos estavam pausados.
 
