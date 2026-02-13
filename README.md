@@ -72,7 +72,6 @@
 - ⚙️ Deploy, CI/CD e testes automatizados
 - 📘 Eng. de Software, padrões de projeto e arquitetura em camadas
 - ☁️ Firebase (Auth, Firestore, Cloud Messaging)
-- 🎓 Graduação EAD + preparação para concursos de TI
 
 ---
 
