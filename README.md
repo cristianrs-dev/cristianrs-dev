@@ -75,16 +75,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianrs-dev&show_icons=true&theme=gruvbox" alt="Cristian's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianrs-dev&layout=compact&theme=gruvbox" />
-</p>
-
----
-
 ### 📫 Contato
 
 - 📧 cristianramos.dev@gmail.com
