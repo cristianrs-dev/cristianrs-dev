@@ -1,3 +1,5 @@
+
+<h1 align="center">Passei um bom período internado devido a um problema de saúde, por conta disso meus projetos estavam parados, agora aos poucos com a recuperação estou voltando à ativa com meus projetos e planos de aula</h1>
 <h1 align="center">👋 Olá, eu sou o Cristian Ramos</h1>
 
 <p align="center">
