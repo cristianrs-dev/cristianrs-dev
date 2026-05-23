@@ -95,7 +95,7 @@ Atualmente estudo arquitetura de software, testes automatizados, segurança, CI/
 - 📘 Eng. de Software, padrões de projeto e arquitetura em camadas
 - ☁️ Firebase (Auth, Firestore, Cloud Messaging)
 <br>
----
+  
 ## 📫 Contato
 
 - 📧 cris.tecwordd@gmail.com
