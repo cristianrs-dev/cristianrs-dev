@@ -17,8 +17,8 @@ Atualmente estudo arquitetura de software, testes automatizados, segurança, CI/
 <br>
 
 ### 🚀 Projetos em Destaque
-#### 🚗 Sistema de Venda de Carros
-- Sistema full stack desenvolvido com Java, Spring Boot, MySQL e APIs RESTful.
+#### 🤝Plataforma web conte comigo
+- Sistema web full stack.
 
 #### 🏢 Sistema de Condomínio
 - Gerenciamento de moradores, autenticação e controle administrativo.
